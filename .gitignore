@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 langchain-docs/
+backup_doc/
